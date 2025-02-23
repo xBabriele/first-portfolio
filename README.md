@@ -1,5 +1,2 @@
 # First Portfolio
- My first portfolio I have ever created, made a year ago and now with some adjustment I wanted to publish it
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xBabriele.First-Portfolio.READ.md"  />
-</div>
+ The first portfolio I ever created, was made a year ago and now with some adjustments I wanted to publish it
