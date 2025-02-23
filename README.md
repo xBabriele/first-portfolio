@@ -1,5 +1,3 @@
-# My First Portfolio
-
 <h2> What is this about? </h2>
 This is one of my first projects that I'm proud of, collecting almost all of the knowledge I know about HTML and CSS. On this site, you will find something about my persona, knowledge and interests in life. Hope I didn't share too much about myself but I'd appreciate it if you wouldn't share any information inside this website or the files inside this repo.
 
