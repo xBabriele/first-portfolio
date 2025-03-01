@@ -5,7 +5,7 @@
     .messaggio img {
         display: none;
     }
-    .menu img {
+    div.menu {
         display: none;
     }
 }
@@ -40,10 +40,9 @@
 }
 
 html {
-    cursor: url('foto.png'), auto;
+    scroll-behavior: smooth;
     scrollbar-color: #D86EDA #418;
     /*scrollbar-gutter: stable;     both-edges mette anche dall'altra parte uno spazio coincidente con la scrollbar */
-    scroll-behavior: smooth;
     cursor: url('cursor.cur'), auto;
 }
 body {
@@ -52,15 +51,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(to bottom, #D86EDA 0%, #418 100%);
 }
-
-p::selection,
-h1::selection,
-h2::selection,
-h3::selection,
-h4::selection,
-a::selection,
-img::selection,
-br::selection {
+*::selection {
     background-color: #49108B;
     color: #E26EE5;
 }
@@ -68,6 +59,7 @@ br::selection {
     margin: 0 auto;
     width: 100%;
 }
+
 
 /* MENU */
 .menu {
@@ -85,14 +77,14 @@ br::selection {
     padding: 0 15px;
     background-color: #E26EE5;
     border-radius: 15px;
-    box-shadow: 10px 10px 10px #C21292;
+    box-shadow: 7px 7px 10px #C21292;
     transition: ease .5s;
     color: black;
 }
 .menu li:hover {
     background-color: black;
     color: ghostwhite;
-    box-shadow: 10px 10px 18px 2px #49108B;
+    box-shadow: 10px 10px 11px #49108B;
     text-shadow: 0 0 5px #E26EE5,
     0 0 10px #E26EE5,
     0 0 15px #E26EE5,
@@ -101,14 +93,12 @@ br::selection {
     0 0 30px #E26EE5,
     0 0 40px #E26EE5;
     cursor: pointer;
-    padding: 5px 25px;
-    margin: 0 75px;
 }
 .menu img {
     width: 130px;
     border-radius: 50%;
     box-shadow: 0 0 15px 10px #123;
-    transition: ease-in-out 3s;
+    transition: ease-in-out 3.5s;
     transform-origin: 10px 10px;
     user-select: none;
     -webkit-user-drag: none;
@@ -177,6 +167,7 @@ br::selection {
     justify-content: space-between;
     grid-gap: 1.5em;
     justify-content: center;
+    box-sizing: border-box;
 }
 .txt h2 {
     text-align: center;
@@ -196,8 +187,12 @@ br::selection {
     background-image: linear-gradient(to bottom right, #E26EE5 0%, #49108B 100%);
     border-radius: 30px;
     color: floralwhite;
-    box-shadow: 15px 15px 20px 10px #49108B;
+    box-shadow: 15px 15px 10px -2px #49108B;
     padding: 10px 15px;
+    transition: ease-in-out .3s;
+}
+.items:hover {
+    box-shadow: 15px 15px 10px -2px #D86EDA;
 }
 .img-txt {
     min-width: 210px;
