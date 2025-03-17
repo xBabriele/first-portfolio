@@ -5,8 +5,9 @@ In reality, this is an old project of mine that I started a year ago for myself 
 ## Why was this created?
 I created this project to practice with HTML and CSS. This was supposed to be the final product of all the knowledge I had learned since I started learning web. Of course, it doesn't have everything I learned but it contains a good amount of it.
 
-
-
+<br>
+<br>
+<br>
 Feel free to experiment with the code and the website, if you have any questions or advice about the code contact me through GitHub or socials like Instagram. As I said before I'd appreciate it if you wouldn't share or modify any information you find on the website, the code, or inside files of the repository. Thank you.
 Feel free to experiment with the code and the website, if you have any questions or advice about the code contact me through GitHub or socials like Instagram.
 
