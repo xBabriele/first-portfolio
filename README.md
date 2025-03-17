@@ -7,7 +7,7 @@ I created this project to practice with HTML and CSS. This was supposed to be th
 
 <br>
 <br>
-<br>
+
 Feel free to experiment with the code and the website, if you have any questions or advice about the code contact me through GitHub or socials like Instagram. As I said before I'd appreciate it if you wouldn't share or modify any information you find on the website, the code, or inside files of the repository. Thank you.
 Feel free to experiment with the code and the website, if you have any questions or advice about the code contact me through GitHub or socials like Instagram.
 
