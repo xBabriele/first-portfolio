@@ -10,4 +10,5 @@ I created this project to practice with HTML and CSS. This was supposed to be th
 
 Feel free to experiment with the code and the website, if you have any questions or advice about the code contact me through GitHub or socials like Instagram and Discord which you can find in <a href="https://madi8.carrd.co">here</a>.
 <br>
+<br
 As I said before I'd appreciate it if you wouldn't share or modify any information you find on the website, the code, or inside files of the repository. Thank you.
